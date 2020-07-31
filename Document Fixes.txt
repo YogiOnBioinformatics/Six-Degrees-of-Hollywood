@@ -1,0 +1,14 @@
+Add TMDB to proposal 
+
+Program picks actor to start with and then we program a way to find another actor through some movie path. 
+
+If answer is correct, show pictures of actors/actresses with picture of movie. 
+
+Milestone 1: finish HTML (rules and intro screen) 
+
+Milestone 2: get TMDB working for the sake of Minimal Viable Product 
+
+Milestone 3: Add CSS, JavaScript and pictures to our web browser
+
+By presentation time: Add game modes
+
